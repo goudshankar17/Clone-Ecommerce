@@ -1,2 +1,2 @@
 # Clone-Ecommerce
-This Repository is shows  all the Ecommerce applications different functionalities implementation  
+This Repository is shows  all the Ecommerce applications used different functionalities.  
